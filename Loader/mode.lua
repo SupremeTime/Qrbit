@@ -11,7 +11,7 @@ qrbit.Config = {
 		ColorSequenceKeypoint.new(0, Color3.fromRGB(106, 182, 165)),
 		ColorSequenceKeypoint.new(1, Color3.fromRGB(116, 255, 246)),
 	},
-	bTextColor = Color3.fromRGB(255, 255, 255)
+	bTextColor = Color3.fromRGB(30, 90, 105)
 }
 
 function qrbit.Gui(cmds)
